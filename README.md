@@ -1,13 +1,13 @@
 Single web page Application Using Angular JS
 
-create a front-end application
+Create a front-end application by Check OFF button!!
 
-[Module 1 Solution](Mod1-sol).
+[Module 1 Solution](Mod1-sol)
 
-create a “check off” shopping List application
+Create a “check off” shopping List application!!
 
-[Module 2 Solution](Mod2-Sol).
+[Module 2 Solution](Mod2-Sol)
 
-search the descriptions of menu items
+Search the descriptions of menu items!!
 
-[Module 3 Solution](Mod3-Sol).
+[Module 3 Solution](Mod3-Sol)
